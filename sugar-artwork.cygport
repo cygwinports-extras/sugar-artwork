@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="sugar-artwork"
-VERSION=0.98.2
+VERSION=0.98.5
 RELEASE=1
 CATEGORY="Sugar"
 SUMMARY="Sugar Desktop theme"
@@ -11,5 +11,5 @@ thinking, the heart of a quality education. Designed from the ground up
 especially for children, Sugar offers an alternative to traditional
 office-desktop software."
 HOMEPAGE="http://www.sugarlabs.org/"
-SRC_URI="http://download.sugarlabs.org/sources/sucrose/glucose/${PN}/${P}.tar.bz2"
+SRC_URI="http://download.sugarlabs.org/sources/sucrose/glucose/${NAME}/${NAME}-${VERSION}.tar.bz2"
 
